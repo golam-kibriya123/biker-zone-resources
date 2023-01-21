@@ -3693,13 +3693,14 @@ fieldset:disabled .btn {
 }
 
 .btn-outline-warning {
-  color:  #E76F51;
-  border-color:  #E76F51;
+  color: #E76F51;
+  border-color: #E76F51;
 }
 
 .btn-outline-warning:hover {
-  color: #ffff;
+  color: #fff;
   background-color: #E76F51;
+  border-color: #ffff;
 }
 
 .btn-check:focus+.btn-outline-warning,
@@ -8247,7 +8248,7 @@ fieldset:disabled .btn {
 }
 
 .text-secondary {
-  color:  #E76F51!important;
+  color: #E76F51 !important;
 }
 
 .text-success {
